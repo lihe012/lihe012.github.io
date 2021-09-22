@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1002,
+        "MM": "Sep",
+        "dd": 22,
+        "length": 690,
+        "duration": 25,
+        "difficulty": 3,
+        "title": "A Wonderful Life",
+        "details": "Commonly, people try to design a wonderful life for themselves and for their family. The opposite approach is to drift through life and react to whatever happens to you. In the film \"Forrest Gump\" the main character repeated his mother's guidance, \"Life is like a box of chocolates. You don't know what you will get,\" and his life was illustrated by a bird's feather that floated wherever the wind moved it. \n\n通常，人们试图为自己和家人设计美好的生活。相反的方法是在生活中漂流，并对发生在你身上的任何事情做出反应。在电影《阿甘正传》中，主人公重复了母亲的教导：“人生就像一盒巧克力，你不知道会得到什么”，他的人生以随风飘扬的鸟毛来描绘。它。\n\nThe film was one of Actor Tom Hanks' finest. Yet, there were inconsistencies in the basic message of \"Do what you like and everything will turn out fine.\" Forrest's Mother definitely tried to design her son's life when she did (what she could) to get him into a better school, got him braces for his crooked legs, and encouraged him to reach potential beyond what she believed he could physically or mentally accomplish. She did not teach him to be a couch potato who ate chocolate all day and hoped for the best. \n\n这部电影是演员汤姆汉克斯最好的电影之一。然而，“做你喜欢做的事，一切都会好起来”的基本信息存在不一致之处。福雷斯特的母亲确实试图设计她儿子的生活，她做了（她能做的）让他进入更好的学校，为他的弯曲腿戴上支架，并鼓励他发挥超出她认为他在身体或精神上可以实现的潜力。她没有教他成为一个整天吃巧克力并希望最好的沙发土豆。\n\nHow do you design a wonderful life? Have you done it? Many people (probably most people) place their acquisition of money at the pinnacle of their life's purpose, then they use what skills they have, what opportunities they can find, and maybe they will bend their moral compass to get that money. Then what? If they get it, they will use it to build power for themselves, to gain favor among those who might support their social ascent, to impress others with their wealth, then kick back and enjoy a lavish lifestyle. A slice of society does the opposite with their money: They invest it wisely, and they protect it so that it becomes their means to do good and generous things. \n\n你如何设计美好的生活？你完成了吗？许多人（可能是大多数人）将获得金钱放在人生目标的顶峰，然后他们会使用他们拥有的技能，他们可以找到的机会，也许他们会弯曲道德指南针来获得金钱。然后呢？如果他们得到它，他们将用它为自己建立权力，赢得那些可能支持他们社会上升的人的青睐，用他们的财富给别人留下深刻印象，然后放松并享受奢侈的生活方式。社会的一部分人用他们的钱做相反的事情：他们明智地投资，他们保护它，使它成为他们做善事和慷慨之事的手段。",
+        "imageName": "aWonderfulLife"
+    },
+    {
+        "id": 1001,
+        "MM": "Sep",
+        "dd": 21,
+        "length": 20,
+        "duration": 2,
+        "difficulty": 1,
+        "title": "Welcome",
+        "details": "Great news! \n\n号外! 号外! \n\nMessengizé is finally here! \n\nMessengizé 开通啦! \n\nWe are informational and fun. We welcome you to follow us, follow the excitement! \n\n有料有趣, 欢迎关注!",
+        "imageName": "welcome"
+    }
+]
