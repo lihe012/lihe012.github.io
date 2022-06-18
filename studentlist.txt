@@ -1,0 +1,16 @@
+[
+    {
+        "id": 00001,
+        "firstName": "GPS",
+        "lastName": "Coding",
+        "profilePicName": "GPSCoding",
+        "BGMtitle": "CanonInD"
+    },
+    {
+        "id": 00002,
+        "firstName": "Li",
+        "lastName": "He",
+        "profilePicName": "lovingDuringAPandemic",
+        "BGMtitle": "youAreMyQueen"
+    }
+}
